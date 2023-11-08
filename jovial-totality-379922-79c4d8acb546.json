@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jovial-totality-379922",
+  "private_key_id": "79c4d8acb5465adcdd1cf8f8d75a97ecef8440da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCmyXiYu5vEKgJg\nTpUqgUs35QcFWXM3xqIVbAW3TtaUICQUcyz5MIiYDc92eGEWyfbK9JTRV89ybztu\nm+V2LK78rn/n4nbIGTaTkkRaaCgw6oIriMEA68k+jrLrYE7CIJigf6T0+QxG8AVm\n5emjzIvEoNYriDtmDdaiKMg5YIwapm6B7m/tz1rA7PLqjVzgExeDzI6Nh8KLiA0w\nLRCWqyzbZ9UET8hjLYA2n3Tut8fVQrOil0CwSV8Z9pCDDFS0PhY5SBGFDbQ5htQL\nXEyjt1iGLDf0GZOjbiDKqzRh2GJgCCktPh+zXQRlsvKvoTy4kWS0AYxnQBYd58wU\nb3AIb36BAgMBAAECgf8Yz7U2WLJovCxzpz0JgF0a3jdCfyFkwBKHR/U8ZRNcIGvo\nSY9R1/vPTZP59m57CrsWoMvYA01uTfMewTz2wi7wkq+fD1FxnaPresGFsXjzze8P\nYDNWBRLVpjoiScbC75Zvnzgq4+Gvq9p3NDyi4WA+yq5m9h01UVmx8InYqe7YXSxq\nGarSfpiv7D8+Gh8H1Rx2r3PMHGNd21z8QoYhdWzkGuDfvk3+Bz6oVXdyckQ7ITi3\niI9EW+CWvjEQNSX8zBrXJSWPlx90JUail8ZMYjBHsslbEVT9ZKHta5EWxTBVvD6v\nLv4pl4F/PCVq9NMqvVac0KBam6vp5o2Y2Kvp6oUCgYEA01Hp4fVWU6U0uiLPY44F\nQAqrWiMmRZynTU1th0MybmiAuhelhBT+fYyjLn3fq/f6QxXR+OWE+hbG2HKp5aX2\nvZORI4Qk+5Qd1HYCA9pX/Hm2YyHPGtpCi+/qhCur71DsNUAF8Yy40aQu3iCb7s+k\n4gvfxqBq+w9uEZBse9A+5H0CgYEAyg0gkvkQ0lnE/NmP1bK3Loz7rYelJJOaTYzG\nMh1AWYHSzuHDZORQJdN4XBRwuKRIMtc9ih0ZsPzGwuOv/tRiu/44+hAe8Xz0Dw/K\n7Ra74EU8zku1Ut4QbknfiX+IIa/URkCbQsrDjpZxwKBB2j7B5s0xiCR8bUGG1fri\nVr4K9VUCgYBtbycyqA27pXtnxW0m/j5DywKv3DIOrLCLPMSy3p64RJAdTu+dNg4Q\n0IsVIYR6lyHYKe2h+qJhrPfu0XqgfdEInen0vZM1YaANDcu/WQxlqFZGghSxsEP0\nGhuVtNQGTB72+J/bVmfD0UWgLLzz8D5P/Zw2TY75UyVKHUPA3rgjNQKBgBfksYNv\n3KNjZj4YZD/7IFpq5aBBuC+5HLgq+40VlHSBO7KnU/nsXeX7OfJ5oFLVaoxIk8hv\nZIhffAmz7y4NY5ejmo1HtsEL67iUP4UF+TWuOmCS52BjTkIcjkiuQiTprAqavUGK\nxNFpzQ3gZakvXrKydTcKSYSKCS3ouzdSxez5AoGBAKsKZTTcK+IienqWJBzRqvVh\nELaDULNJ3BTYk0thC5zVlt+aSax+bl47EZOQXBgFFFf1lNlHGaSvWWdBj4bkWWDg\nOx1Mt1f8Ug0NZ0YUOfAk0ihUlREJKReS3mXRki4dIJxYkm2nxMSX/4+r02N4Ge8U\njyLvWS+Mso3VHPrJoTm2\n-----END PRIVATE KEY-----\n",
+  "client_email": "yandex1995@jovial-totality-379922.iam.gserviceaccount.com",
+  "client_id": "111648675345437266972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yandex1995%40jovial-totality-379922.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
